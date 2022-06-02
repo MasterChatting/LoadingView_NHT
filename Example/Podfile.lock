@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - LoadingView_NHT (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - LoadingView_NHT (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  LoadingView_NHT:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  LoadingView_NHT: e83fdc0bc4bce4e95038befe679d9317ae1754c7
+
+PODFILE CHECKSUM: d8b52f0231fd6f91c95b2acd016d924925a9a312
+
+COCOAPODS: 1.11.3

@@ -7,6 +7,7 @@
 //
 
 #import "NHTViewController.h"
+#import <LoadingView_NHT.h>
 
 @interface NHTViewController ()
 
